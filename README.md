@@ -1,4 +1,3 @@
 # gdc-rules
 An attempt at cleaning up the rules in the Geometry Dash Creators Discord server.
-I'm just kinda trying to see what this looks like and if it works.
-The last delivery was not successful, so we're trying again.
+I can't wait for it to take away the github ending of the webhook for no reason again.
